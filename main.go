@@ -2,6 +2,6 @@ package forexample
 
 import "fmt"
 
-funct main() {
-		fmt.Print("Hello!")
+func main() {
+	fmt.Print("Hello!")
 }
