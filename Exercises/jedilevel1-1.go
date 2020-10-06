@@ -2,10 +2,7 @@ package main
 
 import "fmt"
 
-//var x int
-//var y string
-//var z bool
-
+// ":=" using SHORT DECLARATION OPERATOR
 func main() {
 	x := 42
 	y := "James Bond"
